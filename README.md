@@ -2,3 +2,5 @@
 
 Пробный экзамен в ШАД, соответствующий программе экзамена в ШАД: https://yandexdataschool.ru/static/files/shad_program.pdf
 
+# Авторы задач
+- Александр Лыков
